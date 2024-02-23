@@ -1,0 +1,46 @@
+
+/*fuente */
+.lobster-two-regular {
+    font-family: "Lobster Two", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #ffffff;
+  }
+  
+  .lobster-two-bold {
+    font-family: "Lobster Two", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+
+  /*se agrega fuente 2 cabin*/
+ 
+
+.cabin {
+  font-family: "Cabin", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color: #373A3C;
+}
+  
+ /*css*/
+ footer{
+    background-color: #373A3C;
+ }
+body{
+ background-color: ffffff;
+}
+/*da forma redonda a los */
+.carousel .carousel-indicators button {
+  width: 10px;
+  height: 10px;
+  border-radius: 100%;
+  background-color: rgb(61, 61, 61);
+}
+.carousel .carousel-indicators {
+  top: 105%;
+}
+.pink{
+background-color: #DC3545;
+
+}
