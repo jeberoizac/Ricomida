@@ -40,3 +40,16 @@ $(document).ready(function(){
       $("p").css("background-color", "red");
     });
   });
+
+  //con clase
+  <script>
+$(document).ready(function(){
+  $("button").click(function(){
+    $(".ti p").hide();
+  });
+});
+</script>
+<button>Click me</button>
+<div class="ti">
+<p>This is otr parrafo.</p>
+</div>
