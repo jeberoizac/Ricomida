@@ -1,0 +1,4 @@
+codigo fuentes de cabil solid.
+
+cambiar font-family en las tarjetas
+agregar jquery de borrar texto al hacer clic en titulo de tarjetas..creo.

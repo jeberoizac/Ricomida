@@ -17,3 +17,8 @@ $(document).ready(function(){
 });
 
 //esconder parrafos de card card-title
+$(document).ready(function(){
+  $(".card-title").click(function(){
+    $("p").hide();
+  });
+});
