@@ -19,6 +19,6 @@ $(document).ready(function(){
 //esconder parrafos de card card-title
 $(document).ready(function(){
   $(".card-title").click(function(){
-    $(".card-text").hide();
+    $(".card-text").toggle("slow");
   });
 });
